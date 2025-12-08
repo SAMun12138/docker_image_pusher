@@ -1,4 +1,5 @@
 redis:latest
+httpd:2.4
 postgres:18
 busybox:latest
 rockylinux:9
@@ -9,4 +10,3 @@ prom/node-exporter:v1.10.2
 prom/mysqld-exporter:v0.18.0
 grafana/grafana:v12.1
 grafana/loki:latest
-httpd:2.4
