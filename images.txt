@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+openjdk:17-jdk-slim
